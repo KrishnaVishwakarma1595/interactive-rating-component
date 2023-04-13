@@ -22,8 +22,8 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/KrishnaVishwakarma1595/nft-preview-card-component)
-- Live Site URL: [Live URL](https://krishnavishwakarma1595.github.io/nft-preview-card-component/)
+- Solution URL: [Solution URL](https://github.com/KrishnaVishwakarma1595/interactive-rating-component)
+- Live Site URL: [Live URL](https://krishnavishwakarma1595.github.io/interactive-rating-component/)
 
 ## My process
 
